@@ -1,0 +1,14 @@
+[Unit]
+Description=Bot music discord
+Documentation=https://norsiide.be
+After=network.target
+
+[Service]
+User=root
+Restart=on-failure
+WorkingDirectory=/mnt/evobot
+ExecStart=npm run start
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
