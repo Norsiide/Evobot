@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325" width="100" alt="norsiide">
+  <img src="https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325" width="auto" alt="norsiide">
 </p>
 
 # Evobot
