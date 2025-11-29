@@ -7,10 +7,13 @@
 # Evobot
 
 **Bot Music Discord — *ATTENTION : je ne suis pas le créateur du bot. Ce tutoriel explique uniquement comment j’ai réalisé mon installation.***
-### Contact
+### Lien utiles
 
 * **Discord** : [Rejoins notre communauté](https://discord.gg/EV3fAhFZJT)
 * **Website** : [Plus d'information](https://norsiide.be)
+
+* **lien du bot** : [Lien officiel du créateur](https://github.com/eritislami/evobot)
+
 ---
 
 
